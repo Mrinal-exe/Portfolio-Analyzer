@@ -1,0 +1,77 @@
+/* styles.css */
+body {
+    background-color: #f6f6f6;
+    margin: 0%;
+    overflow-x: hidden;
+}
+
+.top {
+    background-color: #ffffff;
+    padding: 20px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top-left {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar {
+    display: flex;
+    margin-left: 20px;
+
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #606060;
+    margin-right: 20px;
+}
+
+.container{
+    background-color: #ffffff ;
+    margin: 80px;
+    border-radius: 15px;
+    height: 900px;
+}
+
+.graph-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.chart {
+    width: 59%;
+    height: 450px;
+    display: inline-block;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin : 20px;
+    border-radius: 15px;
+    font-size: 16px; 
+}
+
+
+.pie-chart {
+    width: 38%;
+    height: 450px;
+    display: inline-block;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    margin : 20px;
+    padding: 20px;
+    font-size: 16px;
+    border-radius: 15px;
+}
+
+.table{
+    margin: 40px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    padding: 25px;
+    font-size: 16px;
+    border-radius: 15px;
+
+}
