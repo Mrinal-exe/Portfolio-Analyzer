@@ -5,7 +5,7 @@ import datetime as dt
 
 from sklearn.preprocessing import MinMaxScaler
 from tensorflow import keras
-from keras import layers, models
+from keras import layers
 
 
 data = pd.read_csv('.data/crypto/SOL.csv')
