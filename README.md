@@ -8,4 +8,5 @@ It is a hassel to manage all your stocks and cryptocurrencies accross different 
 Have all your investments at one place and see their prices in real time and Let AI handle the buying/selling decisions for you. This AI analyzes the previous trend of prices and tell you the future prices. Not exact future prices, But it can tell you if  the price will rise or fall. So you can make your buying or selling decisions accordingly.
 
 # ER Diagram
-![Blank diagram](https://github.com/Mrinal-exe/Portfolio-Analyzer/assets/73127958/61a0609d-8e0e-4f13-b594-06c3f5694989)
+
+![Blank diagram (1)](https://github.com/Mrinal-exe/Portfolio-Analyzer/assets/73127958/65808a43-c050-4919-9cda-06a87f6d7a9a)
