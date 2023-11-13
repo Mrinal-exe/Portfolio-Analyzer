@@ -12,5 +12,5 @@ Have all your investments at one place and see their prices in real time and Let
 ![Blank diagram (1)](https://github.com/Mrinal-exe/Portfolio-Analyzer/assets/73127958/65808a43-c050-4919-9cda-06a87f6d7a9a)
 
 ## Choice of technology
-- Frontend : Python/HTML/CSS
+- Frontend : Python/Dash/CSS
 - Backend : Python/Tensorflow
